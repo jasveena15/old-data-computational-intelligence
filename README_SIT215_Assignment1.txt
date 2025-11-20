@@ -1,4 +1,5 @@
 SIT215 Assignment 1 – Wheelchair-Accessible Route Planning
+-----------------------------------------------------------
 
 Project Overview:
 This project implements a navigation system for wheelchair users, using the A* search algorithm to compute optimal or most accessible routes on a custom environment map. The solution includes:
@@ -10,7 +11,8 @@ This project implements a navigation system for wheelchair users, using the A* s
 How to Run (Using Jupyter Notebook):
 ------------------------------------
 1. Open the Jupyter Notebook environment.
-2. Run each cell sequentially using the "Run" button or Shift + Enter.
+2. Navigate to the file: `CI - assignment.ipynb`.
+3. Run each cell sequentially using the "Run" button or Shift + Enter.
    - Ensure required libraries are installed before running.
 
 Required Python Version:

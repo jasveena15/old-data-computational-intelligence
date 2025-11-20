@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>A: Ringwood Station Entrance</name>
+      <Point>
+        <coordinates>145.2294636,-37.8156505,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B: Bus Interchange</name>
+      <Point>
+        <coordinates>145.2294588,-37.815474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C: Maroondah Hwy Crossing</name>
+      <Point>
+        <coordinates>145.2288074,-37.8152886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D: Realm Library</name>
+      <Point>
+        <coordinates>145.2290135,-37.8148201,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E: Town Square (Water Fountain)</name>
+      <Point>
+        <coordinates>145.2290695,-37.8149849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>F: Eastland South Entrance (JB Hi-Fi)</name>
+      <Point>
+        <coordinates>145.2296805,-37.8140786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>G: Outdoor Seating Area</name>
+      <Point>
+        <coordinates>145.2296467,-37.8144825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>H: Public Lift at Eastland</name>
+      <Point>
+        <coordinates>145.2306309,-37.8139861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>I: Level 1 Food Court</name>
+      <Point>
+        <coordinates>145.2300744,-37.8144433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J: Accessible Toilet (Eastland L1)</name>
+      <Point>
+        <coordinates>145.2314192,-37.8136444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K: Coles Exit / North Entrance</name>
+      <Point>
+        <coordinates>145.2292295,-37.814683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L: Parking Ramp Entry</name>
+      <Point>
+        <coordinates>145.2303492,-37.8140991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M: Accessible Parking Bay (Car Park A)</name>
+      <Point>
+        <coordinates>145.2295034,-37.8148709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Path: A to B</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2294636,-37.8156505,0 145.2294588,-37.815474,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: B to C</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2294588,-37.815474,0 145.2288074,-37.8152886,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: C to D</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2288074,-37.8152886,0 145.2290135,-37.8148201,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: D to E</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2290135,-37.8148201,0 145.2290695,-37.8149849,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: E to F</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2290695,-37.8149849,0 145.2296805,-37.8140786,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: F to G</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2296805,-37.8140786,0 145.2296467,-37.8144825,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: G to H</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2296467,-37.8144825,0 145.2306309,-37.8139861,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: H to I</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2306309,-37.8139861,0 145.2300744,-37.8144433,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: I to J</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2300744,-37.8144433,0 145.2314192,-37.8136444,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: J to K</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2314192,-37.8136444,0 145.2292295,-37.814683,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: K to L</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2292295,-37.814683,0 145.2303492,-37.8140991,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: L to M</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2303492,-37.8140991,0 145.2295034,-37.8148709,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: M to A</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2295034,-37.8148709,0 145.2294636,-37.8156505,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: D to K</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2290135,-37.8148201,0 145.2292295,-37.814683,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: C to G</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2288074,-37.8152886,0 145.2296467,-37.8144825,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: E to G</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2290695,-37.8149849,0 145.2296467,-37.8144825,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: G to I</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2296467,-37.8144825,0 145.2300744,-37.8144433,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: F to I</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2296805,-37.8140786,0 145.2300744,-37.8144433,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: K to I</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2292295,-37.814683,0 145.2300744,-37.8144433,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Path: H to J</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>145.2306309,-37.8139861,0 145.2314192,-37.8136444,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
